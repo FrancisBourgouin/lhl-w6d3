@@ -14,7 +14,7 @@
     "nodemon": "^1.18.11"
   },
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "uuid": "^3.3.2",
     "ws": "^6.2.1"
   }
